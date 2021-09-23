@@ -5,6 +5,8 @@ node_modules
 #images
 images
 /images
+processed_images
+/processed_images
 
 # misc
 .DS_Store
